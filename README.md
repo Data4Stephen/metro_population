@@ -15,6 +15,6 @@ This Python script presents a UI that allows you to retrieve Metropolitan Statis
   * MSA_CODE 
 
 # To-Do
-* Add user input validations (particularly for Census API parameters
+* Add user input validations (particularly for Census API parameters)
 * Error Handling
 * Implement better custom SQL query editor
