@@ -12,7 +12,8 @@ This Python script presents a UI that allows you to retrieve Metropolitan Statis
   * POPULATION
 * MSA_CODES
   * MSA_TITLE
-  * MSA_CODE 
+  * MSA_CODE
+  * note: table loaded with MSA 5-digit codes and names from following source: https://www2.census.gov/programs-surveys/cps/methodology/2015%20Geography%20Cover.pdf 
 
 # To-Do
 * Add user input validations (particularly for Census API parameters)
