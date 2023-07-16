@@ -2,7 +2,7 @@
 host = "CONNECTION STRING"
 port = "PORT"
 user = "DATABASE USER"
-password = "DATABASE PASSWORD
+password = "DATABASE PASSWORD"
 database = "DATABASE NAME"
 
 # define database table names
